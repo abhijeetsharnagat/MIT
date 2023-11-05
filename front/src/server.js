@@ -1,3 +1,3 @@
-export const server = "http://localhost:8000/api/v2";
+export const server = "https://mit-api-abhijeet-sharnagats-projects.vercel.app/api/v2";
 
 

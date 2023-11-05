@@ -6,7 +6,7 @@ const bodyParser = require("body-parser");
 const cors = require("cors");
 
 app.use(cors({
-  origin: ['https://mit-api-abhijeet-sharnagats-projects.vercel.app',],
+  origin: ['https://mit-api-abhijeet-sharnagats-projects.vercel.app/',],
   credentials: true
 }));
 
